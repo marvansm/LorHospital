@@ -1,1 +1,8 @@
 @import "tailwindcss";
+
+:root {
+  --font-inter: var(--font-inter);
+}
+@theme {
+  --font-inter: var(--font-inter);
+}
