@@ -1,3 +1,3 @@
 import ApiServices from "./http";
-const api = new ApiServices("http://localhost:5001/api");
+const api = new ApiServices("/api");
 export default api;

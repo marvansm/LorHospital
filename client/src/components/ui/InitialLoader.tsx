@@ -3,16 +3,21 @@ import { motion, AnimatePresence } from "framer-motion";
 import { useEffect, useState } from "react";
 import Image from "next/image";
 
+import { usePathname } from "next/navigation";
+
 const InitialLoader = () => {
   const [isLoading, setIsLoading] = useState(true);
+  const pathname = usePathname();
 
   useEffect(() => {
+    setIsLoading(true);
+
     const timer = setTimeout(() => {
       setIsLoading(false);
-    }, 2500);
+    }, 2000);
 
     return () => clearTimeout(timer);
-  }, []);
+  }, [pathname]);
 
   return (
     <AnimatePresence>

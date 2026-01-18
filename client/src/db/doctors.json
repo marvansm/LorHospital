@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Nigar Muradova",
+    "title": "Qulaq Burun Boğaz cərrahı, Otonevroloq",
+    "image": "/images/nigar.png"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Nuray Şükürova",
+    "title": "Qulaq Burun Boğaz cərrahı",
+    "image": "/images/xayyam.png"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Kamilə Allahverdiyeva",
+    "title": "Qulaq Burun Boğaz həkimi",
+    "image": "/images/aqil.png"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Mahtaban Qədiməli",
+    "title": "Qulaq Burun Boğaz cərrahı",
+    "image": "/images/xayyam.png"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Nigar Muradova",
+    "title": "Qulaq Burun Boğaz cərrahı, Otonevroloq",
+    "image": "/images/nigar.png"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Nuray Şükürova",
+    "title": "Qulaq Burun Boğaz cərrahı",
+    "image": "/images/xayyam.png"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Kamilə Allahverdiyeva",
+    "title": "Qulaq Burun Boğaz həkimi",
+    "image": "/images/aqil.png"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Mahtaban Qədiməli",
+    "title": "Qulaq Burun Boğaz cərrahı",
+    "image": "/images/xayyam.png"
+  }
+]

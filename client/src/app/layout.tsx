@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import MainLayout from "@/layout";
+import TanstackQueryProvider from "@/provider/tanstackQueryProvider";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -23,9 +24,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${inter.variable} font-inter antialiased`}>
-        <MainLayout>
-          <main className="min-h-screen">{children}</main>
-        </MainLayout>
+        <TanstackQueryProvider>
+          <MainLayout>
+            <main className="min-h-screen">{children}</main>
+          </MainLayout>
+        </TanstackQueryProvider>
       </body>
     </html>
   );
