@@ -2,11 +2,11 @@
   {
     "id": 1,
     "name": "Dr. Nigar Muradova",
-    "title": "Qulaq Burun Boğaz cərrahı, Otonevroloq",
+    "title": "LOR həkimi",
     "image": "/images/nigar.png",
     "experience": "5 il",
-    "patientCount": 0,
-    "reviewCount": 0,
+    "patientCount": 950,
+    "reviewCount": 78,
     "position": "Qulaq Burun Boğaz Cərrahı, Otonevroloq",
     "center": "Başgicəllənmə Mərkəzi",
     "education": [
@@ -34,7 +34,7 @@
   {
     "id": 2,
     "name": "Dr. Nuray Şükürova",
-    "title": "Qulaq Burun Boğaz cərrahı",
+    "title": "Burun Boğaz həkimi",
     "image": "/images/xayyam.png",
     "experience": "8 il",
     "patientCount": 1200,
@@ -58,37 +58,37 @@
   {
     "id": 3,
     "name": "Dr. Kamilə Allahverdiyeva",
-    "title": "Qulaq Burun Boğaz həkimi",
+    "title": "Mədə həkimi",
     "image": "/images/aqil.png",
     "experience": "12 il",
     "patientCount": 2500,
     "reviewCount": 89,
-    "position": "Qulaq Burun Boğaz Həkimi",
-    "center": "Eşitmə Mərkəzi",
+    "position": "Qastroenteroloq",
+    "center": "Həzm Sistemi Mərkəzi",
     "education": [
       "2004-2010: Azərbaycan Tibb Universiteti",
-      "2011-2013: İstanbul Universiteti, Audiologiya üzrə ixtisaslaşma kursu",
+      "2011-2013: İstanbul Universiteti, Qastroenterologiya üzrə ixtisaslaşma kursu",
       "2015: Almaniya, Berlin Şarite Klinikası, Təcrübə proqramı"
     ],
     "treatments": [
-      "Eşitmə müayinəsi",
-      "Audiometriya",
-      "Timpanometriya",
-      "Qulaq yuyulması",
-      "Eşitmə cihazlarının tənzimlənməsi",
-      "Kəskin və xroniki otitlərin müalicəsi",
-      "Vestibulyar reabilitasiya"
+      "Mədə xorası müalicəsi",
+      "Qastrit və duodenit müalicəsi",
+      "Refluks xəstəliyi müalicəsi",
+      "Endoskopik müayinələr",
+      "Helicobacter pylori müalicəsi",
+      "Mədə-bağırsaq xəstəliklərinin diaqnostikası",
+      "Pəhriz və qidalanma məsləhətləri"
     ]
   },
   {
     "id": 4,
     "name": "Dr. Mahtaban Qədiməli",
-    "title": "Qulaq Burun Boğaz cərrahı",
+    "title": "Uşaq LOR həkimi",
     "image": "/images/xayyam.png",
     "experience": "6 il",
     "patientCount": 800,
     "reviewCount": 32,
-    "position": "Qulaq Burun Boğaz Cərrahı",
+    "position": "Pediatrik LOR Cərrahı",
     "center": "Uşaq Lor Xəstəlikləri",
     "education": [
       "2012-2018: Azərbaycan Tibb Universiteti",
@@ -106,59 +106,53 @@
   },
   {
     "id": 5,
-    "name": "Dr. Nigar Muradova",
-    "title": "Qulaq Burun Boğaz cərrahı, Otonevroloq",
+    "name": "Dr. Rəşad Məmmədov",
+    "title": "Otorinolarinqoloq",
     "image": "/images/nigar.png",
-    "experience": "5 il",
-    "patientCount": 0,
-    "reviewCount": 0,
-    "position": "Qulaq Burun Boğaz Cərrahı, Otonevroloq",
-    "center": "Başgicəllənmə Mərkəzi",
+    "experience": "10 il",
+    "patientCount": 1850,
+    "reviewCount": 92,
+    "position": "Baş Otorinolarinqoloq",
+    "center": "Respublik LOR Mərkəzi",
     "education": [
-      "2010-cu ildə Azərbaycan Tibb Universiteti fərqlənmə diplomu ilə bitirmişdir.",
-      "2010-2011 ci illərdə Qulaq Burun Boğaz ixtisası üzrə internatura keçmişdir.",
-      "2015 ci ildə Türkiyə, İzmir Ege Universiteti Qulaq Burun Boğaz anabilim dalında ixtisaslaşmışdır.",
-      "2018-2019 cu illərdə Türkiyə Ankara, Başkent Universiteti Nörotoloji kliniyinde eğitim almışdır."
+      "2008-cu ildə Azərbaycan Tibb Universiteti fərqlənmə diplomu ilə bitirmişdir.",
+      "2009-2013 ci illərdə Rusiya Federasiyası, Moskva Şəhər Klinik Xəstəxanası rezidentura",
+      "2015 ci ildə Türkiyə, Hacettepe Universiteti ixtisaslaşma kursu",
+      "2019 cu ildə İsveç, Karolinska İnstitutu, Qabaqcıl cərrahiyyə texnikaları"
     ],
     "treatments": [
-      "Pediatrik əməliyyatlar- Tonzillektomiya, Adenoidektomiya, Qulaq pərdəsinə tüp taxılması",
-      "Septoplastika (burun çəpərinin düzəldilməsi)",
-      "Burun balıqqulaqlarına radiofrekans tətbiqi (konxalara)",
-      "Burun sınığı əməliyyatı (açıq və qapalı reduksiya)",
-      "Polipotomiya; FESC (funksional endoskopik sinus cərrahiyyəsi)",
-      "Rinoplastika",
-      "Qulaq seyvanının plastikası",
-      "Timpanoplastika",
-      "Miringoplastika",
-      "Mastoidektomiya",
-      "Stapedektomiya",
-      "Qulaq törəmələri",
-      "Xoanal atreziya"
+      "Larinqeal cərrahiyyə",
+      "Səs telləri əməliyyatları",
+      "Tiroqlossal kist əməliyyatları",
+      "Parotid vəzi cərrahiyyəsi",
+      "Boyun limfa düyünləri biopsiyası",
+      "Traxeostomiya",
+      "Mikrolarinqoskopiya"
     ]
   },
   {
     "id": 6,
-    "name": "Dr. Kamilə Allahverdiyeva",
-    "title": "Qulaq Burun Boğaz həkimi",
+    "name": "Dr. Səbinə Həsənova",
+    "title": "Audioloji mütəxəssis",
     "image": "/images/aqil.png",
-    "experience": "12 il",
-    "patientCount": 2500,
-    "reviewCount": 89,
-    "position": "Qulaq Burun Boğaz Həkimi",
-    "center": "Eşitmə Mərkəzi",
+    "experience": "7 il",
+    "patientCount": 1340,
+    "reviewCount": 67,
+    "position": "Audiologiya və Eşitmə Reabilitasiyası Mütəxəssisi",
+    "center": "Eşitmə və Tarazlıq Mərkəzi",
     "education": [
-      "2004-2010: Azərbaycan Tibb Universiteti",
-      "2011-2013: İstanbul Universiteti, Audiologiya üzrə ixtisaslaşma kursu",
-      "2015: Almaniya, Berlin Şarite Klinikası, Təcrübə proqramı"
+      "2011-2017: Azərbaycan Tibb Universiteti",
+      "2017-2019: Türkiyə, Marmara Universiteti, Audiologiya magistratura",
+      "2020: Danimarka, Kopenhagen Universiteti, Eşitmə implantları kursu"
     ],
     "treatments": [
-      "Eşitmə müayinəsi",
-      "Audiometriya",
-      "Timpanometriya",
-      "Qulaq yuyulması",
-      "Eşitmə cihazlarının tənzimlənməsi",
-      "Kəskin və xroniki otitlərin müalicəsi",
-      "Vestibulyar reabilitasiya"
+      "Eşitmə testləri və qiymətləndirmə",
+      "Eşitmə cihazlarının seçimi və tənzimlənməsi",
+      "Koklear implant qiymətləndirməsi",
+      "Tinnitusun müalicəsi",
+      "Vestibulyar funksiya testləri",
+      "Uşaqlarda eşitmə skrininqi",
+      "Eşitmə reabilitasiyası proqramları"
     ]
   }
 ]
