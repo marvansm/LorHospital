@@ -1,13 +1,16 @@
 import Image from "next/image";
 import { Doctor } from "@/types";
+import Link from "next/link";
 
 interface DoctorCardProps {
   doctor: Doctor;
 }
-
 const DoctorCard = ({ doctor }: DoctorCardProps) => {
   return (
-    <div className="bg-white rounded-[32px] overflow-hidden shadow-sm  cursor-pointer">
+    <Link
+      href={`/about-us/doctors/${doctor.id}`}
+      className="bg-white rounded-[32px] overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 cursor-pointer block group"
+    >
       <div className="rounded-br-[110px] overflow-hidden bg-[#F2F2F2]">
         <Image
           src={doctor.image}
@@ -25,7 +28,7 @@ const DoctorCard = ({ doctor }: DoctorCardProps) => {
           {doctor.title}
         </p>
       </div>
-    </div>
+    </Link>
   );
 };
 

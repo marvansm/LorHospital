@@ -41,11 +41,11 @@ const BannerSection = () => {
             rel="noopener noreferrer"
             className="relative flex items-center justify-center group"
           >
-            <div className="absolute w-[100px] h-[100px] border border-[#7CD953]/20 rounded-full animate-ping-slow"></div>
-            <div className="absolute w-[85px] h-[85px] border border-[#7CD953]/40 rounded-full"></div>
-            <div className="absolute w-[72px] h-[72px] border border-[#7CD953]/60 rounded-full"></div>
+            <div className="absolute w-25 h-25 border border-[#7CD953]/20 rounded-full animate-ping-slow"></div>
+            <div className="absolute w-21.25 h-21.25 border border-[#7CD953]/40 rounded-full"></div>
+            <div className="absolute w-18 h-18 border border-[#7CD953]/60 rounded-full"></div>
 
-            <div className="relative w-[60px] h-[60px] bg-[#7CD953] rounded-full flex items-center justify-center shadow-lg transition-transform group-hover:scale-110 z-10">
+            <div className="relative w-15 h-15 bg-[#7CD953] rounded-full flex items-center justify-center shadow-lg transition-transform group-hover:scale-110 z-10">
               <MessageCircle size={32} color="white" fill="white" />
             </div>
           </a>

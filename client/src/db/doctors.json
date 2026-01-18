@@ -3,48 +3,162 @@
     "id": 1,
     "name": "Dr. Nigar Muradova",
     "title": "Qulaq Burun Boğaz cərrahı, Otonevroloq",
-    "image": "/images/nigar.png"
+    "image": "/images/nigar.png",
+    "experience": "5 il",
+    "patientCount": 0,
+    "reviewCount": 0,
+    "position": "Qulaq Burun Boğaz Cərrahı, Otonevroloq",
+    "center": "Başgicəllənmə Mərkəzi",
+    "education": [
+      "2010-cu ildə Azərbaycan Tibb Universiteti fərqlənmə diplomu ilə bitirmişdir.",
+      "2010-2011 ci illərdə Qulaq Burun Boğaz ixtisası üzrə internatura keçmişdir.",
+      "2015 ci ildə Türkiyə, İzmir Ege Universiteti Qulaq Burun Boğaz anabilim dalında ixtisaslaşmışdır.",
+      "2018-2019 cu illərdə Türkiyə Ankara, Başkent Universiteti Nörotoloji kliniyinde eğitim almışdır."
+    ],
+    "treatments": [
+      "Pediatrik əməliyyatlar- Tonzillektomiya, Adenoidektomiya, Qulaq pərdəsinə tüp taxılması",
+      "Septoplastika (burun çəpərinin düzəldilməsi)",
+      "Burun balıqqulaqlarına radiofrekans tətbiqi (konxalara)",
+      "Burun sınığı əməliyyatı (açıq və qapalı reduksiya)",
+      "Polipotomiya; FESC (funksional endoskopik sinus cərrahiyyəsi)",
+      "Rinoplastika",
+      "Qulaq seyvanının plastikası",
+      "Timpanoplastika",
+      "Miringoplastika",
+      "Mastoidektomiya",
+      "Stapedektomiya",
+      "Qulaq törəmələri",
+      "Xoanal atreziya"
+    ]
   },
   {
     "id": 2,
     "name": "Dr. Nuray Şükürova",
     "title": "Qulaq Burun Boğaz cərrahı",
-    "image": "/images/xayyam.png"
+    "image": "/images/xayyam.png",
+    "experience": "8 il",
+    "patientCount": 1200,
+    "reviewCount": 45,
+    "position": "Qulaq Burun Boğaz Cərrahı",
+    "center": "Estetik və Plastik Cərrahiyyə Mərkəzi",
+    "education": [
+      "2008-2014: Azərbaycan Tibb Universiteti, Müalicə işi fakültəsi",
+      "2014-2018: Bakı Sağlamlıq Mərkəzi, Rezidentura"
+    ],
+    "treatments": [
+      "Rinoplastika (Estetik burun əməliyyatı)",
+      "Septoplastika",
+      "Otoplastika (Qulaq seyvanı estetikası)",
+      "Blefaroplastika (Göz qapağı estetikası)",
+      "Endoskopik sinus cərrahiyyəsi",
+      "Tonzillektomiya",
+      "Adenoidektomiya"
+    ]
   },
   {
     "id": 3,
     "name": "Dr. Kamilə Allahverdiyeva",
     "title": "Qulaq Burun Boğaz həkimi",
-    "image": "/images/aqil.png"
+    "image": "/images/aqil.png",
+    "experience": "12 il",
+    "patientCount": 2500,
+    "reviewCount": 89,
+    "position": "Qulaq Burun Boğaz Həkimi",
+    "center": "Eşitmə Mərkəzi",
+    "education": [
+      "2004-2010: Azərbaycan Tibb Universiteti",
+      "2011-2013: İstanbul Universiteti, Audiologiya üzrə ixtisaslaşma kursu",
+      "2015: Almaniya, Berlin Şarite Klinikası, Təcrübə proqramı"
+    ],
+    "treatments": [
+      "Eşitmə müayinəsi",
+      "Audiometriya",
+      "Timpanometriya",
+      "Qulaq yuyulması",
+      "Eşitmə cihazlarının tənzimlənməsi",
+      "Kəskin və xroniki otitlərin müalicəsi",
+      "Vestibulyar reabilitasiya"
+    ]
   },
   {
     "id": 4,
     "name": "Dr. Mahtaban Qədiməli",
     "title": "Qulaq Burun Boğaz cərrahı",
-    "image": "/images/xayyam.png"
+    "image": "/images/xayyam.png",
+    "experience": "6 il",
+    "patientCount": 800,
+    "reviewCount": 32,
+    "position": "Qulaq Burun Boğaz Cərrahı",
+    "center": "Uşaq Lor Xəstəlikləri",
+    "education": [
+      "2012-2018: Azərbaycan Tibb Universiteti",
+      "2018-2022: Ankara Şəhər Xəstəxanası, İxtisaslaşma",
+      "2023: ABŞ, Mayo Klinikası, Qısa müddətli kurs"
+    ],
+    "treatments": [
+      "Uşaqlarda adenoid və tonzillit əməliyyatları",
+      "Qulaq tüpü taxılması (Şuntlama)",
+      "Xoruldama və yuxu apnesi müalicəsi",
+      "Laringomalaziya cərrahiyyəsi",
+      "Boyun kistlərinin xaric edilməsi",
+      "Yad cisimlərin çıxarılması (qulaq, burun, boğaz)"
+    ]
   },
   {
     "id": 5,
     "name": "Dr. Nigar Muradova",
     "title": "Qulaq Burun Boğaz cərrahı, Otonevroloq",
-    "image": "/images/nigar.png"
+    "image": "/images/nigar.png",
+    "experience": "5 il",
+    "patientCount": 0,
+    "reviewCount": 0,
+    "position": "Qulaq Burun Boğaz Cərrahı, Otonevroloq",
+    "center": "Başgicəllənmə Mərkəzi",
+    "education": [
+      "2010-cu ildə Azərbaycan Tibb Universiteti fərqlənmə diplomu ilə bitirmişdir.",
+      "2010-2011 ci illərdə Qulaq Burun Boğaz ixtisası üzrə internatura keçmişdir.",
+      "2015 ci ildə Türkiyə, İzmir Ege Universiteti Qulaq Burun Boğaz anabilim dalında ixtisaslaşmışdır.",
+      "2018-2019 cu illərdə Türkiyə Ankara, Başkent Universiteti Nörotoloji kliniyinde eğitim almışdır."
+    ],
+    "treatments": [
+      "Pediatrik əməliyyatlar- Tonzillektomiya, Adenoidektomiya, Qulaq pərdəsinə tüp taxılması",
+      "Septoplastika (burun çəpərinin düzəldilməsi)",
+      "Burun balıqqulaqlarına radiofrekans tətbiqi (konxalara)",
+      "Burun sınığı əməliyyatı (açıq və qapalı reduksiya)",
+      "Polipotomiya; FESC (funksional endoskopik sinus cərrahiyyəsi)",
+      "Rinoplastika",
+      "Qulaq seyvanının plastikası",
+      "Timpanoplastika",
+      "Miringoplastika",
+      "Mastoidektomiya",
+      "Stapedektomiya",
+      "Qulaq törəmələri",
+      "Xoanal atreziya"
+    ]
   },
   {
     "id": 6,
-    "name": "Dr. Nuray Şükürova",
-    "title": "Qulaq Burun Boğaz cərrahı",
-    "image": "/images/xayyam.png"
-  },
-  {
-    "id": 7,
     "name": "Dr. Kamilə Allahverdiyeva",
     "title": "Qulaq Burun Boğaz həkimi",
-    "image": "/images/aqil.png"
-  },
-  {
-    "id": 8,
-    "name": "Dr. Mahtaban Qədiməli",
-    "title": "Qulaq Burun Boğaz cərrahı",
-    "image": "/images/xayyam.png"
+    "image": "/images/aqil.png",
+    "experience": "12 il",
+    "patientCount": 2500,
+    "reviewCount": 89,
+    "position": "Qulaq Burun Boğaz Həkimi",
+    "center": "Eşitmə Mərkəzi",
+    "education": [
+      "2004-2010: Azərbaycan Tibb Universiteti",
+      "2011-2013: İstanbul Universiteti, Audiologiya üzrə ixtisaslaşma kursu",
+      "2015: Almaniya, Berlin Şarite Klinikası, Təcrübə proqramı"
+    ],
+    "treatments": [
+      "Eşitmə müayinəsi",
+      "Audiometriya",
+      "Timpanometriya",
+      "Qulaq yuyulması",
+      "Eşitmə cihazlarının tənzimlənməsi",
+      "Kəskin və xroniki otitlərin müalicəsi",
+      "Vestibulyar reabilitasiya"
+    ]
   }
 ]

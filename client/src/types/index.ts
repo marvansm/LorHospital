@@ -3,6 +3,13 @@ export interface Doctor {
   name: string;
   title: string;
   image: string;
+  experience?: string;
+  patientCount?: number;
+  reviewCount?: number;
+  position?: string;
+  center?: string;
+  education?: string[];
+  treatments?: string[];
 }
 
 export interface InfoCard {
