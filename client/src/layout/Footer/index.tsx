@@ -29,6 +29,7 @@ const Footer = () => {
                   src="/images/whiteLogo.png"
                   alt="Lor Hospital Logo"
                   fill
+                  sizes="(max-width: 768px) 180px, 180px"
                   className="object-contain"
                 />
               </div>

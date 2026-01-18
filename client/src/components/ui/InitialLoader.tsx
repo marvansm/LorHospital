@@ -40,6 +40,7 @@ const InitialLoader = () => {
                 alt="Lor Hospital Logo"
                 fill
                 priority
+                sizes="(max-width: 768px) 240px, 240px"
                 className="object-contain"
               />
             </motion.div>

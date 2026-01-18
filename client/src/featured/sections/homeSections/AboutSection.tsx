@@ -8,11 +8,9 @@ const AboutSection = () => {
       <Container>
         <div className="flex flex-col lg:flex-row items-center gap-12 lg:gap-20">
           <div className="flex-1 flex flex-col gap-8">
-            <Reveal duration={0.8}>
-              <h2 className="text-[36px] md:text-[48px] font-bold font-inter text-[#3F3F3F] leading-tight tracking-tight">
-                Nəyə görə Lor Hospital?
-              </h2>
-            </Reveal>
+            <h2 className="text-[36px] md:text-[48px] font-bold font-inter text-[#3F3F3F] leading-tight tracking-tight">
+              Nəyə görə Lor Hospital?
+            </h2>
             <div className="flex flex-col gap-6">
               <Reveal delay={0.4}>
                 <p className="text-[18px] md:text-[22px] font-normal font-inter text-[#3F3F3F] leading-[140%] tracking-[-2%] opacity-80">

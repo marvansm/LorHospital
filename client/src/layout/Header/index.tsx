@@ -131,9 +131,9 @@ const Header = () => {
                     animate={{ opacity: 1, y: 0 }}
                     exit={{ opacity: 0, y: 10 }}
                     transition={{ duration: 0.2 }}
-                    className="absolute top-full left-1/2 -translate-x-1/2 mt-1 min-w-[70px] bg-white shadow-[0px_4px_12px_rgba(0,0,0,0.1)] rounded-[8px] py-2 z-[110] border border-[#F2F2F2]"
+                    className="absolute top-full left-1/2 -translate-x-1/2 mt-1 min-w-[70px] bg-white shadow-[0px_4px_12px_rgba(0,0,0,0.1)] rounded-[8px] py-2 z-110 border border-[#F2F2F2]"
                   >
-                    {/* Small Arrow */}
+                 
                     <div className="absolute -top-[6px] left-1/2 -translate-x-1/2 w-0 h-0 border-l-[6px] border-l-transparent border-r-[6px] border-r-transparent border-b-[6px] border-b-white"></div>
 
                     <ul className="flex flex-col text-center">
