@@ -1,4 +1,4 @@
-import DoctorDetail from "../DoctorDetail";
+import DoctorDetailTop from "@/featured/pages/DoctorDetailTop";
 
 export default async function DoctorDetailPage({
   params,
@@ -6,5 +6,5 @@ export default async function DoctorDetailPage({
   params: Promise<{ doctorId: string }>;
 }) {
   const resolvedParams = await params;
-  return <DoctorDetail doctorId={resolvedParams.doctorId} />;
+  return <DoctorDetailTop doctorId={resolvedParams.doctorId} />;
 }

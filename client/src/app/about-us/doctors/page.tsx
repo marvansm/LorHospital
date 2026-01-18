@@ -1,7 +1,7 @@
-import DoctorsSection from "@/featured/sections/aboutUs/DoctorsSection";
+import DoctorsPage from "@/featured/pages/Doctors";
 
-const DoctorsPage = () => {
-  return <DoctorsSection />;
+const Page = () => {
+  return <DoctorsPage />;
 };
 
-export default DoctorsPage;
+export default Page;

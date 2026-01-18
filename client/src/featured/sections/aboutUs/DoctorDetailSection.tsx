@@ -11,7 +11,7 @@ interface DoctorDetailProps {
   doctorId: string;
 }
 
-const DoctorDetail = ({ doctorId }: DoctorDetailProps) => {
+const DoctorDetailSection = ({ doctorId }: DoctorDetailProps) => {
   const [activeTab, setActiveTab] = useState("info");
 
   const { data: doctors, isLoading } = useQuery({
@@ -172,4 +172,4 @@ const DoctorDetail = ({ doctorId }: DoctorDetailProps) => {
   );
 };
 
-export default DoctorDetail;
+export default DoctorDetailSection;
