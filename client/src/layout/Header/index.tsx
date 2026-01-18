@@ -157,7 +157,7 @@ const Header = () => {
           <div className="shrink-0 py-4">
             <Link href="/">
               <Image
-                src="/images/logo.png"
+                src="/images/Logo.png"
                 alt="Lor Hospital Logo"
                 width={160}
                 height={50}
